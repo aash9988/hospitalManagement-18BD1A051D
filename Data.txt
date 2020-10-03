@@ -1,0 +1,125 @@
+{
+        "_id" : ObjectId("5f71872aec6c81aa5c38f4cf"),
+        "hId" : "H1",
+        "name" : "Apollo hospital",
+        "location" : "17.398644, 78.484334",
+        "address" : "Plot No. 3-5-874/1 Near, Old MLA Quarters                          Rd, Hyderguda,Hyderabad,Telangana 500029",
+        "contactNo" : "040-23231380"
+}
+{
+        "_id" : ObjectId("5f718f7fec6c81aa5c38f4d0"),
+        "hId" : "H4",
+        "name" : "Appolo hospital",
+        "location" : "17.398478, 78.484254",
+        "address" : "Plot No. 3-5-870/2 Near, New MLA Quarters Rd, Hyderabad,Telangana 500030",
+        "contactNo" : "040-23231385"
+}
+{
+        "_id" : ObjectId("5f718f7fec6c81aa5c38f4d1"),
+        "hId" : "H2",
+        "name" : "Sagar hospital",
+        "location" : "17.398531, 78.484674",
+        "address" : "Plot No. 3-5-871/3 Near, Secratariat Rd, Hyderabad,Telangana 500031",
+        "contactNo" : "040-23231387"
+}
+{
+        "_id" : ObjectId("5f718f7fec6c81aa5c38f4d2"),
+        "hId" : "H3",
+        "name" : "Max hospital",
+        "location" : "17.398754, 78.484178",
+        "address" : "Plot No. 3-5-872/4 Near, Barkatpura Rd, Hyderguda,Hyderabad,Telangana 500032",
+        "contactNo" : "040-23231390"
+}
+
+
+
+
+
+
+
+
+
+{
+        "_id" : ObjectId("5f7191f3ec6c81aa5c38f4d3"),
+        "hId" : "H1",
+        "ventilatorId" : "H1V5",
+        "status" : "occupied",
+        "name" : "Apollo hospital"
+}
+{
+        "_id" : ObjectId("5f7191f3ec6c81aa5c38f4d4"),
+        "hId" : "H1",
+        "ventilatorId" : "H1V6",
+        "status" : "Available",
+        "name" : "Apollo hospital"
+}
+{
+        "_id" : ObjectId("5f7191f3ec6c81aa5c38f4d5"),
+        "hId" : "H1",
+        "ventilatorId" : "H1V7",
+        "status" : "Under Maintainance",
+        "name" : "Apollo hospital"
+}
+{
+        "_id" : ObjectId("5f7191f3ec6c81aa5c38f4d6"),
+        "hId" : "H2",
+        "ventilatorId" : "H2V5",
+        "status" : "occupied",
+        "name" : "Sagar hospital"
+}
+{
+        "_id" : ObjectId("5f7191f3ec6c81aa5c38f4d7"),
+        "hId" : "H2",
+        "ventilatorId" : "H2V6",
+        "status" : "Available",
+        "name" : "Sagar hospital"
+}
+{
+        "_id" : ObjectId("5f7191f3ec6c81aa5c38f4d8"),
+        "hId" : "H2",
+        "ventilatorId" : "H2V7",
+        "status" : "Under Maintainance",
+        "name" : "Sagar hospital"
+}
+{
+        "_id" : ObjectId("5f7191f3ec6c81aa5c38f4d9"),
+        "hId" : "H3",
+        "ventilatorId" : "H3V5",
+        "status" : "occupied",
+        "name" : "Max hospital"
+}
+{
+        "_id" : ObjectId("5f7191f3ec6c81aa5c38f4da"),
+        "hId" : "H3",
+        "ventilatorId" : "H3V6",
+        "status" : "Available",
+        "name" : "Max hospital"
+}
+{
+        "_id" : ObjectId("5f7191f3ec6c81aa5c38f4db"),
+        "hId" : "H3",
+        "ventilatorId" : "H3V7",
+        "status" : "Under Maintainance",
+        "name" : "Max hospital"
+}
+{
+        "_id" : ObjectId("5f7191f3ec6c81aa5c38f4dc"),
+        "hId" : "H4",
+        "ventilatorId" : "H4V5",
+        "status" : "occupied",
+        "name" : "Appolo hospital"
+}
+{
+        "_id" : ObjectId("5f7191f3ec6c81aa5c38f4dd"),
+        "hId" : "H4",
+        "ventilatorId" : "H4V6",
+        "status" : "Available",
+        "name" : "Appolo hospital"
+}
+{
+        "_id" : ObjectId("5f7191f3ec6c81aa5c38f4de"),
+        "hId" : "H4",
+        "ventilatorId" : "H4V7",
+        "status" : "Under Maintainance",
+        "name" : "Appolo hospital"
+}
